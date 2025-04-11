@@ -1,0 +1,10 @@
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\bin\Debug\Tarea Crud.exe.config
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\bin\Debug\Tarea Crud.exe
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\bin\Debug\Tarea Crud.pdb
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\obj\Debug\Tarea Crud.csproj.AssemblyReference.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\obj\Debug\Tarea_Crud.Form1.resources
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\obj\Debug\Tarea_Crud.Properties.Resources.resources
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\obj\Debug\Tarea Crud.csproj.GenerateResource.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\obj\Debug\Tarea Crud.csproj.CoreCompileInputs.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\obj\Debug\Tarea Crud.exe
+C:\Users\tahly\Desktop\Nueva carpeta\Tarea Crud\obj\Debug\Tarea Crud.pdb
